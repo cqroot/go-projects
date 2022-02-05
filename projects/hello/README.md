@@ -2,7 +2,7 @@
 
 "Hello world" is usually the first program to learn a language.
 
-## How to run
+## Usage
 
 ```go
 go run main.go
