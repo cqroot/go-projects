@@ -5,11 +5,6 @@
 ## Usage
 
 ```go
-go run main.go
-```
-
-Then the terminal will print:
-
-```
+$ go run main.go
 Hello, world!
 ```

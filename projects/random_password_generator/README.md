@@ -4,6 +4,7 @@ This tool generates random passwords of any length from letters, numbers, symbol
 
 ## Usage
 
-```go
-go run main.go
+```
+$ go run main.go
+3CCkSkqfLckg7mIc
 ```
