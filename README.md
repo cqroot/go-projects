@@ -4,7 +4,7 @@
 
 ## Projects
 
-| #   | Project                                                                                                         | Description |
-|:---:|:---------------------------------------------------------------------------------------------------------------:|:------------|
-| 1   | [Hello](https://github.com/cqroot/go-projects/tree/main/projects/hello)                                         | Hello world |
-| 2   | [Random Password Generator](https://github.com/cqroot/go-projects/tree/main/projects/random_password_generator) |             |
+| #   | Project                                                                                                         |
+|:---:|:---------------------------------------------------------------------------------------------------------------:|
+| 1   | [Hello World](https://github.com/cqroot/go-projects/tree/main/projects/hello)                                   |
+| 2   | [Random Password Generator](https://github.com/cqroot/go-projects/tree/main/projects/random_password_generator) |
